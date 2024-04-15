@@ -1,4 +1,4 @@
-pushplus_token: 123456abc ## pushplus推送token
+pushplus_token: _UP_A4A_11_=wb9641f4b94344608fe2295ae2ed5ce6; _UP_D_=pc; __pus=344f125a70f950451850093ae6fec6a0AATWrBZkg5yiLd1AVzgDqMcmlmnqutnFC14z0MYebi8SFOW62rpA1tWi82G3/FtFhWwEwCwQZO7yDBgmWOLz//MQ; __kp=0f140b90-fac4-11ee-8be3-ab7a54b0655f; __kps=AAQR+/qqL2oATuP/iyNXaicP; __ktd=4mywn6UnATLwwKwKwqrjsw==; __uid=AAQR+/qqL2oATuP/iyNXaicP; __puus=b55636e6d0f474ff770468002a7aacddAASDrWYM83hC87r3bMdA4MdnWRXPgHSonsKN0IXP+s58pgbOUaixhnupy35cvUhNaYcpSYhc7/kYcauKIl04cuPpyOgmxqqEDEaulpfdyh0P2svOY0rvyEbtV3y1y+V8r92Xsj9G96z/FhLmgQCjFmFBx7kTB2efNZNVNQ2s4K+JzMG7CUHYyHzOVsYPtODPVRanpGdlNzpnsOQ3io8kQRbC ## pushplus推送token
 refresh_token: 123456abc ## 阿里云网盘刷新token
 bilibili_cookie: 123456abc ## B站cookie
 kk_cookie: 123456abc ##夸克网盘cookie
